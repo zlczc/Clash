@@ -4,12 +4,21 @@
 DOMAIN-SUFFIX,shields.io
 DOMAIN-SUFFIX,sourcerer.io
 
-
 # Tampermonkey脚本 
 DOMAIN-SUFFIX,greasyfork.org
 DOMAIN-SUFFIX,openuserjs.org
 DOMAIN-SUFFIX,tampermonkey.net
 DOMAIN-SUFFIX,userscript.zone
+
+# Translate 翻译
+#DOMAIN,dict.youdao.com
+DOMAIN,dictionary.cambridge.org
+DOMAIN,translate.google.cn
+DOMAIN,translate.google.com
+DOMAIN-SUFFIX,collinsdictionary.com
+DOMAIN-SUFFIX,moedict.tw
+DOMAIN-SUFFIX,urbandictionary.com
+DOMAIN-SUFFIX,vocabulary.com
 
 # 人类验证
 DOMAIN-SUFFIX,hcaptcha.com

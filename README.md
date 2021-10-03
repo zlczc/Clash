@@ -7,5 +7,5 @@
 # Thanks
 
 * [ACL4SSR/ACL4SSR](https://github.com/ACL4SSR/ACL4SSR/tree/master/Clash)
-* [LM-Firefly/Rules](https://github.com/LM-Firefly/Rules)
+* [LM-Firefly/Rules](https://github.com/LM-Firefly/Rules/tree/master)
 

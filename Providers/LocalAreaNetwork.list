@@ -29,5 +29,6 @@ DOMAIN-SUFFIX,routerlogin.com
 DOMAIN-SUFFIX,tendawifi.com
 DOMAIN-SUFFIX,zte.home
 
-# Clash Premium Dashboard
+# Clash Dashboard
 DOMAIN,clash.razord.top
+DOMAIN,yacd.haishan.me

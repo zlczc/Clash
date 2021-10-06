@@ -1,20 +1,49 @@
 # 本地/局域网地址
 
-# 本地/局域网地址
 DOMAIN-SUFFIX,ip6-localhost
 DOMAIN-SUFFIX,ip6-loopback
 DOMAIN-SUFFIX,local
 DOMAIN-SUFFIX,localhost
+# 保留Ip地址 
+# 参考1 https://zh.wikipedia.org/wiki/%E4%BF%9D%E7%95%99IP%E5%9C%B0%E5%9D%80
+# 参考2 https://www.iana.org/assignments/iana-ipv4-special-registry/iana-ipv4-special-registry.xhtml
+# 参考3 https://www.iana.org/assignments/iana-ipv6-special-registry/iana-ipv6-special-registry.xhtml
+# IPv4
+IP-CIDR,0.0.0.0/8,no-resolve
 IP-CIDR,10.0.0.0/8,no-resolve
 IP-CIDR,100.64.0.0/10,no-resolve
 IP-CIDR,127.0.0.0/8,no-resolve
+IP-CIDR,169.254.0.0/16,no-resolve
 IP-CIDR,172.16.0.0/12,no-resolve
+IP-CIDR,192.0.0.0/24,no-resolve
+IP-CIDR,192.0.2.0/24,no-resolve
+IP-CIDR,192.31.196.0/24,no-resolve
+IP-CIDR,192.52.193.0/24,no-resolve
+IP-CIDR,192.88.99.0/24,no-resolve
 IP-CIDR,192.168.0.0/16,no-resolve
-IP-CIDR,198.18.0.0/16,no-resolve
+IP-CIDR,192.175.48.0/24,no-resolve
+IP-CIDR,198.18.0.0/15,no-resolve
+IP-CIDR,198.51.100.0/24,no-resolve
+IP-CIDR,203.0.113.0/24,no-resolve
+IP-CIDR,224.0.0.0/4,no-resolve
+IP-CIDR,233.252.0.0/24,no-resolve
+IP-CIDR,240.0.0.0/4,no-resolve
+IP-CIDR,255.255.255.255/32,no-resolve
+# IPv6
+IP-CIDR6,::/0,no-resolve
+IP-CIDR6,::/128,no-resolve
 IP-CIDR6,::1/128,no-resolve
+IP-CIDR6,::ffff:0:0:0/96,no-resolve
+IP-CIDR6,64:ff9b::/96,no-resolve
+IP-CIDR6,64:ff9b:1::/48,no-resolve
+IP-CIDR6,100::/64,no-resolve
+IP-CIDR6,2001::/23,no-resolve
+IP-CIDR6,2001:db8::/32,no-resolve
+IP-CIDR6,2002::/16,no-resolve
+IP-CIDR6,2620:4f:8000::/48,no-resolve
 IP-CIDR6,fc00::/7,no-resolve
 IP-CIDR6,fe80::/10,no-resolve
-IP-CIDR6,fd00::/8,no-resolve
+IP-CIDR6,ff00::/8,no-resolve
 
 # Router managed 路由器管理域名
 DOMAIN,router.asus.com
@@ -28,7 +57,3 @@ DOMAIN-SUFFIX,phicomm.me
 DOMAIN-SUFFIX,routerlogin.com
 DOMAIN-SUFFIX,tendawifi.com
 DOMAIN-SUFFIX,zte.home
-
-# Clash Dashboard
-DOMAIN,clash.razord.top
-DOMAIN,yacd.haishan.me

@@ -6,6 +6,10 @@ DOMAIN-SUFFIX,identrust.com
 DOMAIN-SUFFIX,lencr.org
 DOMAIN-SUFFIX,letsencrypt.org
 
+# Clash Dashboard
+DOMAIN,clash.razord.top
+DOMAIN,yacd.haishan.me
+
 # AGE
 DOMAIN-SUFFIX,agefans.net
 DOMAIN-SUFFIX,agefans.cc

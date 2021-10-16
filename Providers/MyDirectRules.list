@@ -1,6 +1,7 @@
 # 个人自定义直连规则
 
 # 数字证书
+DOMAIN-SUFFIX,comodoca.com
 DOMAIN-SUFFIX,digicert.com
 DOMAIN-SUFFIX,identrust.com
 DOMAIN-SUFFIX,lencr.org
@@ -11,8 +12,8 @@ DOMAIN,clash.razord.top
 DOMAIN,yacd.haishan.me
 
 # AGE
-DOMAIN-SUFFIX,agefans.net
 DOMAIN-SUFFIX,agefans.cc
+DOMAIN-SUFFIX,agefans.net
 DOMAIN-SUFFIX,agefans.vip
 
 # 樱花动漫
@@ -24,6 +25,7 @@ DOMAIN-SUFFIX,anicdn.com
 
 # bangumi 番组计划
 DOMAIN-SUFFIX,bgm.tv
+DOMAIN-SUFFIX,bangumi.tv
 
 # lanzou 蓝奏云
 DOMAIN-SUFFIX,lanzou.com
@@ -31,5 +33,3 @@ DOMAIN-SUFFIX,lanzoui.com
 DOMAIN-SUFFIX,lanzous.com
 DOMAIN-SUFFIX,lanzoux.com
 
-# 开源IP api
-DOMAIN-SUFFIX,ipify.org

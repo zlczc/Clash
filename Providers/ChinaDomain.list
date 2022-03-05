@@ -448,8 +448,8 @@ DOMAIN-SUFFIX,baomitu.com
 DOMAIN-SUFFIX,bootcss.com
 DOMAIN-SUFFIX,jiasule.com
 DOMAIN-SUFFIX,jscdn.upai.com
-DOMAIN-SUFFIX,jsdelivr.com
-DOMAIN-SUFFIX,jsdelivr.net
+#DOMAIN-SUFFIX,jsdelivr.com
+#DOMAIN-SUFFIX,jsdelivr.net
 #DOMAIN-SUFFIX,lib.sinaapp.com
 DOMAIN-SUFFIX,staticfile.org
 DOMAIN-SUFFIX,unpkg.com

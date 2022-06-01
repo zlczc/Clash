@@ -23,10 +23,6 @@ DOMAIN-SUFFIX,imomoe.la
 DOMAIN-SUFFIX,anime1.me
 DOMAIN-SUFFIX,anicdn.com
 
-# bangumi 番组计划
-DOMAIN-SUFFIX,bgm.tv
-DOMAIN-SUFFIX,bangumi.tv
-
 # lanzou 蓝奏云
 DOMAIN-SUFFIX,lanzou.com
 DOMAIN-SUFFIX,lanzoui.com

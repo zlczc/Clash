@@ -23,6 +23,10 @@ DOMAIN-SUFFIX,vocabulary.com
 # 人类验证
 DOMAIN-SUFFIX,hcaptcha.com
 
+# bangumi 番组计划
+DOMAIN-SUFFIX,bgm.tv
+DOMAIN-SUFFIX,bangumi.tv
+
 # iwara 🔞
 DOMAIN-SUFFIX,iwara.tv
 

@@ -816,7 +816,7 @@ dns:
       - '+.xboxlive.com'
       - 'localhost.ptlogin2.qq.com'
 
-    use-hosts: true
+    #use-hosts: true
     nameserver:
       - https://dns.alidns.com/dns-query
       - https://doh.pub/dns-query

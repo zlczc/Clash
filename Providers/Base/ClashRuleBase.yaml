@@ -64,7 +64,6 @@ dns:
       - '*.xiami.com'
       - '+.music.migu.cn'
       - 'localhost.ptlogin2.qq.com'
-    use-hosts: true
     nameserver:
       - https://dns.alidns.com/dns-query
       - https://doh.pub/dns-query

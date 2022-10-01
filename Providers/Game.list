@@ -11,6 +11,17 @@ DOMAIN-SUFFIX,helpshift.com
 DOMAIN-SUFFIX,paragon.com
 DOMAIN-SUFFIX,unrealengine.com
 
+# Origin
+DOMAIN-SUFFIX,cloudsync-prod.s3.amazonaws.com
+DOMAIN-SUFFIX,dawngate.com
+DOMAIN-SUFFIX,eastore.com
+DOMAIN-SUFFIX,lordofultima.com
+DOMAIN-SUFFIX,origin-a.akamaihd.net
+DOMAIN-SUFFIX,origin.com
+DOMAIN-SUFFIX,origin.tv
+DOMAIN-SUFFIX,rtm.tnt-ea.com
+DOMAIN-SUFFIX,ssl-lvlt.cdn.ea.com
+
 # Steam
 DOMAIN-SUFFIX,fanatical.com
 DOMAIN-SUFFIX,humblebundle.com

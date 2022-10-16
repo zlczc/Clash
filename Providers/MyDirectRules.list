@@ -1,11 +1,11 @@
 # 个人自定义直连规则
 
 # 数字证书
-DOMAIN-SUFFIX,comodoca.com
-DOMAIN-SUFFIX,digicert.com
-DOMAIN-SUFFIX,identrust.com
-DOMAIN-SUFFIX,lencr.org
-DOMAIN-SUFFIX,letsencrypt.org
+#DOMAIN-SUFFIX,comodoca.com
+#DOMAIN-SUFFIX,digicert.com
+#DOMAIN-SUFFIX,identrust.com
+#DOMAIN-SUFFIX,lencr.org
+#DOMAIN-SUFFIX,letsencrypt.org
 
 # Clash Dashboard
 DOMAIN,clash.razord.top
@@ -31,3 +31,6 @@ DOMAIN-SUFFIX,lanzoux.com
 
 # Eat Kano
 DOMAIN-SUFFIX,xingye.me
+
+# IP Test
+DOMAIN-SUFFIX,ip138.com

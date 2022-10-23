@@ -2,3 +2,6 @@
 
 # MIUI System Update check
 DOMAIN,update.miui.com
+
+# Bilibili 直播udp连接爆炸
+DOMAIN,stun.chat.bilibili.com

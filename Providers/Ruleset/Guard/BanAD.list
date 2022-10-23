@@ -31,27 +31,27 @@ DOMAIN-KEYWORD,zjtoolbar
 
 # 常见互联网公司广告域名
 # Google
-DOMAIN-SUFFIX,admob.com
-DOMAIN-SUFFIX,ads.gmodules.com
-DOMAIN-SUFFIX,ads.google.com
-DOMAIN-SUFFIX,adservice.google.com
-DOMAIN-SUFFIX,afd.l.google.com
-DOMAIN-SUFFIX,badad.googleplex.com
-DOMAIN-SUFFIX,csi.gstatic.com
-DOMAIN-SUFFIX,doubleclick.com
-DOMAIN-SUFFIX,doubleclick.net
-DOMAIN-SUFFIX,google-analytics.com
-DOMAIN-SUFFIX,googleadservices.com
-DOMAIN-SUFFIX,googleadsserving.cn
-DOMAIN-SUFFIX,googlecommerce.com
-DOMAIN-SUFFIX,googlesyndication.com
-DOMAIN-SUFFIX,mobileads.google.com
-DOMAIN-SUFFIX,pagead-tpc.l.google.com
-DOMAIN-SUFFIX,pagead.google.com
-DOMAIN-SUFFIX,pagead.l.google.com
-DOMAIN-SUFFIX,service.urchin.com
+#DOMAIN-SUFFIX,admob.com
+#DOMAIN-SUFFIX,ads.gmodules.com
+#OMAIN-SUFFIX,ads.google.com
+#DOMAIN-SUFFIX,adservice.google.com
+#DOMAIN-SUFFIX,afd.l.google.com
+#DOMAIN-SUFFIX,badad.googleplex.com
+#DOMAIN-SUFFIX,csi.gstatic.com
+#DOMAIN-SUFFIX,doubleclick.com
+#DOMAIN-SUFFIX,doubleclick.net
+#DOMAIN-SUFFIX,google-analytics.com
+#DOMAIN-SUFFIX,googleadservices.com
+#DOMAIN-SUFFIX,googleadsserving.cn
+#DOMAIN-SUFFIX,googlecommerce.com
+#DOMAIN-SUFFIX,googlesyndication.com
+#DOMAIN-SUFFIX,mobileads.google.com
+#DOMAIN-SUFFIX,pagead-tpc.l.google.com
+#DOMAIN-SUFFIX,pagead.google.com
+#DOMAIN-SUFFIX,pagead.l.google.com
+#DOMAIN-SUFFIX,service.urchin.com
 
-# 广告联盟-国内****************
+# 广告联盟-国内
 DOMAIN-SUFFIX,09mk.cn
 DOMAIN-SUFFIX,100peng.com
 DOMAIN-SUFFIX,114la.com
@@ -211,7 +211,6 @@ DOMAIN-SUFFIX,dxpmedia.com
 DOMAIN-SUFFIX,edigitalsurvey.com
 DOMAIN-SUFFIX,eduancm.com
 DOMAIN-SUFFIX,emarbox.com
-DOMAIN-SUFFIX,epsilon.com
 DOMAIN-SUFFIX,exosrv.com
 DOMAIN-SUFFIX,fancyapi.com
 DOMAIN-SUFFIX,feitian001.com
@@ -287,7 +286,6 @@ DOMAIN-SUFFIX,mbai.cn
 DOMAIN-SUFFIX,mediaplex.com
 DOMAIN-SUFFIX,mediav.com
 DOMAIN-SUFFIX,megajoy.com
-DOMAIN-SUFFIX,meiqia.com
 DOMAIN-SUFFIX,mgogo.com
 DOMAIN-SUFFIX,miaozhen.com
 DOMAIN-SUFFIX,microad-cn.com
@@ -303,6 +301,7 @@ DOMAIN-SUFFIX,mobclix.com
 DOMAIN-SUFFIX,mobgi.com
 DOMAIN-SUFFIX,mobisage.cn
 DOMAIN-SUFFIX,mobvista.com
+DOMAIN-SUFFIX,moogos.com
 DOMAIN-SUFFIX,mopub.com
 DOMAIN-SUFFIX,moquanad.com
 DOMAIN-SUFFIX,mpush.cn
@@ -397,6 +396,7 @@ DOMAIN-SUFFIX,usingde.com
 DOMAIN-SUFFIX,uuzu.com
 DOMAIN-SUFFIX,uyunad.com
 DOMAIN-SUFFIX,vamaker.com
+DOMAIN-SUFFIX,vlion.cn
 DOMAIN-SUFFIX,voiceads.cn
 DOMAIN-SUFFIX,voiceads.com
 DOMAIN-SUFFIX,vpon.com
@@ -447,7 +447,7 @@ DOMAIN-SUFFIX,zhjfad.com
 DOMAIN-SUFFIX,zqzxz.com
 DOMAIN-SUFFIX,zzsx8.com
 
-# 广告联盟-国外****************
+# 广告联盟-国外
 DOMAIN-SUFFIX,acuityplatform.com
 DOMAIN-SUFFIX,ad-stir.com
 DOMAIN-SUFFIX,ad-survey.com
@@ -500,7 +500,6 @@ DOMAIN-SUFFIX,connexity.net
 DOMAIN-SUFFIX,criteo.com
 DOMAIN-SUFFIX,criteo.net
 DOMAIN-SUFFIX,csbew.com
-DOMAIN-SUFFIX,demdex.net
 DOMAIN-SUFFIX,directrev.com
 DOMAIN-SUFFIX,dumedia.ru
 DOMAIN-SUFFIX,effectivemeasure.com
@@ -602,7 +601,7 @@ DOMAIN-SUFFIX,yengo.com
 DOMAIN-SUFFIX,zedo.com
 DOMAIN-SUFFIX,zemanta.com
 
-# 垃圾站点****************
+# 垃圾站点
 DOMAIN-SUFFIX,11h5.com
 DOMAIN-SUFFIX,1kxun.mobi
 DOMAIN-SUFFIX,26zsd.cn
@@ -622,7 +621,7 @@ DOMAIN-SUFFIX,zantainet.com
 DOMAIN-SUFFIX,dh54wf.xyz
 DOMAIN-SUFFIX,g2q3e.cn
 
-# 运营商广告****************
+# 运营商广告
 DOMAIN-SUFFIX,114so.cn
 DOMAIN-SUFFIX,go.10086.cn
 DOMAIN-SUFFIX,hivedata.cc

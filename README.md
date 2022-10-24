@@ -29,6 +29,8 @@
 
 * [DoingDog/rconvert](https://github.com/DoingDog/rconvert)
 
+*  [wd-temp/anti-ip-attribution](https://github.com/lwd-temp/anti-ip-attribution)
+
 
 
 ![:moeloli-clash](https://count.getloli.com/get/@:moeloli-clash)

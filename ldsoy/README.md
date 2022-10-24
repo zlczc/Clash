@@ -5,6 +5,7 @@
 1.Mini模板(无自动测速)
 
 https://api.dler.io/sub?target=clash&url=替换成你的订阅&config=https://raw.githubusercontent.com/ldsoy/Clash/main/shenseven/Mini.ini
+https://api.fuqing.ch/sub?target=clash&emoji=false&udp=true&scv=true&new_name=true&config=https%3A%2F%2Fraw.githubusercontent.com%2FNine499%2Fnine-clash-rule%2Fmaster%2Fconfig%2Fnine-clash-rule-base.ini&url=啊哈哈
 
 效果图：
 

@@ -1,1 +1,0 @@
-  - {name: 🇨🇳, server: ip, port: 80, type: vmess, uuid: 16e8fda0-8671-45da-8e75-f05f3497ecda, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: http, http-opts: {method: GET, path: [/], headers: {Host: [wapsd.189.cn]}}, udp: true}

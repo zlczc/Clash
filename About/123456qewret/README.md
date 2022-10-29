@@ -1,3 +1,4 @@
+# [仓库主页](https://github.com/123456qewret/Clash)
 # Clash个人配置
 
 基础用法：

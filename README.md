@@ -1,4 +1,6 @@
-# ClashRules
+#  [仓库主页](https://github.com/Moecg/ClashRules)
+
+## ClashRules
 
 自用 clash 分流规则 , 请不要⭐
 

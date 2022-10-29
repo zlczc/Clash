@@ -1,3 +1,4 @@
+# [仓库主页](https://github.com/ldsoy/Clash)
 # Clash
 常用的clash模板配置
 
